@@ -1,0 +1,5 @@
+To enable access to your project please run this command:
+
+bash addme
+
+

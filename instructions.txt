@@ -1,5 +1,17 @@
-To enable access to your project please run this command:
+
+
+
+
+
+
+************************************************************************
+To enable service XYZ to access to your project please run this command:
+
 
 bash addme
+
+
+************************************************************************
+
 
 

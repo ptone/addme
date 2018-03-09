@@ -15,7 +15,7 @@ Try it out (note, for security reasons, this is a nonsense service account, and
 will error):
 
 [![Open in Cloud
-Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https%3A%2F%2Fgithub.com%2Fptone%2Faddme&page=shell&print=instructions.txt)
+Shell](button.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https%3A%2F%2Fgithub.com%2Fptone%2Faddme&page=shell&print=instructions.txt)
 
 
 ## How to use
@@ -24,8 +24,8 @@ Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.g
  - Edit the 'addme' script to contain your actual service account and desired
    role
  - See the [docs](https://cloud.google.com/shell/docs/open-in-cloud-shell) for
-   "Open in Cloud Shell" - you can use a custom button or anchor text that can
-   prompt the user for access - it doesn't have to be the blue button above.
+   "Open in Cloud Shell" - you can use a different custom button and host the
+   button anywhere on your site.
 
 
 
